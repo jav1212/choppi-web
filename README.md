@@ -60,5 +60,3 @@ A modern e-commerce platform for fresh products, electronics, and more—deliver
 
 MIT
 ```
-
-¿Quieres que le agregue una sección de instalación y variables de entorno también?
